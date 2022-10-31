@@ -115,7 +115,7 @@ def main():
     if seed_text is not None:
 
         try:
-            next_words = 2
+            next_words = 1
             suggested_word = []
             # temp = seed_text
             for _ in range(next_words):

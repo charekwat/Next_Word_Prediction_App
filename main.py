@@ -140,7 +140,7 @@ def main():
             print("Error occurred: ", e)
 
 
-    if st.button("Suggested_two_words"):
+    if st.button("Suggested_word"):
         st.success(seed_text)
 
 

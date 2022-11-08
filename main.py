@@ -133,7 +133,7 @@ def main():
                         break
 
                 seed_text += " " + output_word
-            print("Suggested next two word are : ", suggested_word)
+            print("Suggested next  word  : ", suggested_word)
 
            # print(seed_text)
         except Exception as e:
